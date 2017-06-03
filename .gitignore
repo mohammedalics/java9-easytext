@@ -23,3 +23,7 @@ target
 .tern-project
 
 /easytext/out
+
+/easytext/jars
+
+/easytext/image
